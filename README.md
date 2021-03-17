@@ -1,0 +1,2 @@
+# djcrud
+django-crud
